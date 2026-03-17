@@ -1,3 +1,3 @@
-# Abstract Scroll Snap
+# Vision Scroll Snap
 
-抽象的なライティング画像を使ったCSSスクロールスナップのサンプルです。
+ビジョン系画像を使ったCSSスクロールスナップのサンプルです。
